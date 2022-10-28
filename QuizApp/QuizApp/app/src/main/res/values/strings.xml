@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question1">In how many categories, commands of UNIX operating system classified ?</string>
+    <string name="question1_A">1</string>
+    <string name="question1_B">2</string>
+    <string name="question1_C">Many</string>
+    <string name="question1_D">0</string>
+    <string name="answer_1">2</string>
+
+    <string name="question2">Which command is used to display the documentation of commands in UNIX ?</string>
+    <string name="question_2A">help</string>
+    <string name="question_2B">search</string>
+    <string name="question_2C">whatis</string>
+    <string name="question_2D">man</string>
+    <string name="answer_2">man</string>
+
+    <string name="question3">Which of the following is not a valid escape sequence in UNIX ?</string>
+    <string name="question_3A">n</string>
+    <string name="question_3B">t</string>
+    <string name="question_3C">v</string>
+    <string name="question_3D">d</string>
+    <string name="answer_3">d</string>
+
+    <string name="question4">When backspace doesn’t work to erase characters, we can use _____</string>
+    <string name="question_4A">ctrl-f</string>
+    <string name="question_4B">ctrl-h</string>
+    <string name="question_4C">ctrl-c</string>
+    <string name="question_4D">ctrl-u</string>
+    <string name="answer_4">ctrl-h</string>
+
+    <string name="question5">Which command is used for killing a line ?</string>
+    <string name="question_5A">ctrl-k</string>
+    <string name="question_5B">del</string>
+    <string name="question_5C">ESC</string>
+    <string name="question_5D">ctrl-u</string>
+    <string name="answer_5">ctrl-u</string>
+
+    <string name="question6">Identify the characteristics of transactions</string>
+    <string name="question_6A">Atomicity</string>
+    <string name="question_6B">Durability</string>
+    <string name="question_6C">Isolation</string>
+    <string name="question_6D">All of the mentioned</string>
+    <string name="answer_6">All of the mentioned</string>
+
+    <string name="question7">Which one of the following is a failure to a system ?</string>
+    <string name="question_7A">Boot crash</string>
+    <string name="question_7B">Read failure</string>
+    <string name="question_7C">Transaction failure</string>
+    <string name="question_7D">All of the mentioned</string>
+    <string name="answer_7">Transaction failure</string>
+
+    <string name="question8">Which of the following causes system to crash ?</string>
+    <string name="question_8A">Bug in software</string>
+    <string name="question_8B">Loss of volatile data</string>
+    <string name="question_8C">Hardware malfunction</string>
+    <string name="question_8D">All of the mentioned</string>
+    <string name="answer_8">All of the mentioned</string>
+    <string name="selectedoption">SelectedOption</string>
+    <string name="correctanswer">correctanswer</string>
+
+</resources>
